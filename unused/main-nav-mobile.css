@@ -1,0 +1,16 @@
+@media (max-width: 715px) {
+  .header {
+    display: none;
+  }
+  .header3 {
+    display: block;
+  }
+}
+@media (min-width: 715px) {
+  .header3 {
+    display: none;
+  }
+  .header {
+    display: block;
+  }
+}
