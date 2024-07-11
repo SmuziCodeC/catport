@@ -89,6 +89,9 @@ p {
   background-color: #4280d6;
 }
 .search {
-  height: calc(100% - 30px);
+  height: 40px;
+  width: 224px;
+  border-radius: 5px;
+  display: flex;
   background-color: #4280d6;
 }
